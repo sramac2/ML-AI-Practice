@@ -1,0 +1,40 @@
+movie_id,title,currency,lang_name
+101,K.G.F: Chapter 2,INR,Kannada
+102,Doctor Strange in the Multiverse of Madness,USD,English
+103,Thor: The Dark World ,USD,English
+104,Thor: Ragnarok ,USD,English
+105,Thor: Love and Thunder ,USD,English
+106,Sholay,,Hindi
+107,Dilwale Dulhania Le Jayenge,INR,Hindi
+108,3 Idiots,INR,Hindi
+109,Kabhi Khushi Kabhie Gham,INR,Hindi
+110,Bajirao Mastani ,INR,Hindi
+111,The Shawshank Redemption,USD,English
+112,Inception,,English
+113,Interstellar,USD,English
+115,The Pursuit of Happyness,USD,English
+116,Gladiator,USD,English
+117,Titanic,USD,English
+118,It's a Wonderful Life,USD,English
+119,Avatar,USD,English
+120,The Godfather,USD,English
+121,The Dark Knight,USD,English
+122,Schindler's List,USD,English
+123,Jurassic Park,USD,English
+124,Parasite,USD,English
+125,Avengers: Endgame,USD,English
+126,Avengers: Infinity War,USD,English
+127,Pather Panchali,INR,Bengali
+128,Taare Zameen Par,INR,Hindi
+129,Munna Bhai M.B.B.S.,INR,Hindi
+130,PK,INR,Hindi
+131,Sanju,INR,Hindi
+132,Pushpa: The Rise - Part 1,INR,Telugu
+133,RRR,INR,Telugu
+134,Baahubali: The Beginning,INR,Telugu
+135,The Kashmir Files,INR,Hindi
+136,Bajrangi Bhaijaan,INR,Hindi
+137,Captain America: The First Avenger,USD,English
+138,Captain America: The Winter Soldier,USD,English
+139,Race 3,INR,Hindi
+140,Shershaah,INR,Hindi
